@@ -251,12 +251,14 @@ function create_config( )
     "spammer",
     "stats",
     "telesticker",
+    "saveplug",
+    "supergroup",
     "text",
     "time",
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {233477700,196365625},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
